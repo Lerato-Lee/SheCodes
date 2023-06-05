@@ -1,4 +1,5 @@
-<img src="images/shortcut-1.png">
+![SheCodes-1 (1)](https://github.com/Lerato-Lee/SheCodes/assets/111055500/cfe489ff-e590-4aac-af6c-75666723ca32)
+
 
 
 # SheCodes is a social networking platform for techies from all around the globe to come together and share their views and work together to build cool new tech projects that can change the world we live in. SheCodes is all about diversity.
