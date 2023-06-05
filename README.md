@@ -1,5 +1,5 @@
-![alt text](http://url/to/![Bee](https://github.com/Lerato-Lee/SheCodes/assets/111055500/05b876e5-98c3-4223-a89a-f1d2d9f8aa95)
-)
+<img src="images/share.png">
+
 
 # SheCodes is a social networking platform for techies from all around the globe to come together and share their views and work together to build cool new tech projects that can change the world we live in. SheCodes is all about diversity.
 Sometimes being too serious can be a bit boring, users can share funny tech memes to make one laugh or smile if they're having a bad day, a place where techies especially women empower and motivate, help one another in this tech journey by sharing job posts, learning materials for students and so much more.
