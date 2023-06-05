@@ -1,4 +1,4 @@
-<img src="images/share.png">
+<img src="images/Bee.png">
 
 
 # SheCodes is a social networking platform for techies from all around the globe to come together and share their views and work together to build cool new tech projects that can change the world we live in. SheCodes is all about diversity.
