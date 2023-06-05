@@ -48,33 +48,39 @@ I will  also test using processes such as Functionality testing, Usability testi
 # 7. Existing Solutions
 Women in Tech® - Global Movement -  The difference is that SheCodes is more of a social network platform specifically for women in tech, whereas, Women in tech is a website.
 Women in tech is a great idea, I implemented a change so that all users are able to connect and share their views as well.
+
+
 ![unnamed](https://github.com/Lerato-Lee/SheCodes/assets/111055500/c0bc4a5a-37ae-4335-b305-1a1415383567)
 
-APIs and Methods
+# APIs and Methods
 
 API routes for client to web server communication
 
 Landing Page: UI users see when they navigate to SheCodes.
 
-User Authentication:
+# User Authentication:
 Route: api/auth
          Description: Handles User authentication, allowing new clients to   sign up, existing or returning clients to log in.
 
-User Profile:
+# User Profile:
 Creating a profile(Profile picture, bio, about info).
 
-Blogging/ Creating content:
+# Blogging/ Creating content:
 Enables Users to Like, Comment, share posts, create posts, Direct messaging, and creating group chats.
 
 
 
 
-User Stories
+# User Stories
 
+# User-1 
 As a woman who has stepped into the tech world myself, I've always wanted a safeplace that would allow me to vent, laugh, ask questions so that I can better myself as a coder.
 
+# User-2
 Instead of spending a lot of time on other social networks, I rather spend time here sharing memes that a certain group of people can relate too. I feel so much at home here and learning a lot from other people as well.
 
+# User-3
 I made connections on this app, that eventually got me a job as a Tech support at a great company. I'm happy.
 
+# User-4
 As a computer science students, I came here and joined study groups that really helped me focus and made the journey really easy for me.
